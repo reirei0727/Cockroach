@@ -1,0 +1,4 @@
+name: Cockroach
+version: '1.0-SNAPSHOT'
+main: cockroach.cockroach.main
+api-version: 1.19

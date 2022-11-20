@@ -1,0 +1,4 @@
+name: Cockroach
+version: '${project.version}'
+main: cockroach.cockroach.main
+api-version: 1.19
